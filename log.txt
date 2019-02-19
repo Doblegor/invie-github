@@ -1,0 +1,35 @@
+commit 8ed6549d7d2eb0ae76200d4181a5f09a580ab099
+Author: Leonardo <leonardojrr1@gmail.com>
+Date:   Thu Jan 31 22:44:15 2019 -0400
+
+    agregando el pie
+
+commit d2ec831944455ad098e60095eb00f842a3b291de
+Author: Leonardo <leonardojrr1@gmail.com>
+Date:   Thu Jan 31 22:42:58 2019 -0400
+
+    agregando el manguito klasiko
+
+commit e243986bfb3dd93747790374f852a708c7b02c11
+Author: Leonardo <leonardojrr1@gmail.com>
+Date:   Thu Jan 31 22:40:56 2019 -0400
+
+    agregando la acustico
+
+commit db6dbd6b85ec16cb1670c79b4aa70161bcc93602
+Author: Leonardo <leonardojrr1@gmail.com>
+Date:   Thu Jan 31 22:39:18 2019 -0400
+
+    agregando el hero
+
+commit 885331d3021cd46fb4b66d915a1f06e7e8a45eb3
+Author: Leonardo <leonardojrr1@gmail.com>
+Date:   Thu Jan 31 18:56:29 2019 -0400
+
+    agregando el header
+
+commit 80ef3bfabcc99d1c1586c6abd364210f98e51e2a
+Author: Leonardo <leonardojrr1@gmail.com>
+Date:   Thu Jan 31 18:41:12 2019 -0400
+
+    inicializar nuestro landing
